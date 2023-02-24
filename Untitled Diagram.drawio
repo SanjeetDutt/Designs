@@ -1,1 +1,107 @@
-<mxfile host="app.diagrams.net" modified="2023-02-24T05:41:04.101Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" version="20.8.23" etag="RAgRjsw9sNhnFm3q87Qy" type="github"><diagram name="Page-1" id="Ujv4KCk9p_dzYKIpZMGY">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-02-24T06:00:36.651Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="gDrrD2BLzyGgDPnvaATa" version="20.8.23" type="github">
+  <diagram name="Page-1" id="Ujv4KCk9p_dzYKIpZMGY">
+    <mxGraphModel dx="1001" dy="660" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="hCdEbCfftFfayXPtqMoT-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hCdEbCfftFfayXPtqMoT-1" target="hCdEbCfftFfayXPtqMoT-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hCdEbCfftFfayXPtqMoT-1" value="Hello I&#39;m&amp;nbsp;&lt;br&gt;Sanjeet&lt;br&gt;Full stack web developer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-39" y="117" width="279" height="129" as="geometry" />
+        </mxCell>
+        <mxCell id="hCdEbCfftFfayXPtqMoT-2" value="WEBSITE" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-39" y="92" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hCdEbCfftFfayXPtqMoT-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hCdEbCfftFfayXPtqMoT-3" target="hCdEbCfftFfayXPtqMoT-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hCdEbCfftFfayXPtqMoT-3" value="About Me" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-39" y="246" width="279" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="hCdEbCfftFfayXPtqMoT-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hCdEbCfftFfayXPtqMoT-4" target="hCdEbCfftFfayXPtqMoT-19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-59" y="288" />
+              <mxPoint x="-59" y="412" />
+              <mxPoint x="328" y="412" />
+              <mxPoint x="328" y="238" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hCdEbCfftFfayXPtqMoT-4" value="Qualification" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-39" y="274" width="141" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="hCdEbCfftFfayXPtqMoT-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hCdEbCfftFfayXPtqMoT-5" target="hCdEbCfftFfayXPtqMoT-17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="317" y="288" />
+              <mxPoint x="317" y="180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hCdEbCfftFfayXPtqMoT-5" value="Experience" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="102" y="274" width="138" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="hCdEbCfftFfayXPtqMoT-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hCdEbCfftFfayXPtqMoT-6" target="hCdEbCfftFfayXPtqMoT-21">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="312" y="316" />
+              <mxPoint x="312" y="300" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hCdEbCfftFfayXPtqMoT-6" value="Skills" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-39" y="302" width="279" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="hCdEbCfftFfayXPtqMoT-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hCdEbCfftFfayXPtqMoT-7" target="hCdEbCfftFfayXPtqMoT-22">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="311" y="344" />
+              <mxPoint x="311" y="364" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hCdEbCfftFfayXPtqMoT-7" value="Projects" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-39" y="330" width="279" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="hCdEbCfftFfayXPtqMoT-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hCdEbCfftFfayXPtqMoT-8" target="hCdEbCfftFfayXPtqMoT-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hCdEbCfftFfayXPtqMoT-8" value="Contact" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-39" y="358" width="279" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="hCdEbCfftFfayXPtqMoT-11" value="&lt;b&gt;Introduction table: &lt;/b&gt;This table will store the details like my designation, about me, and various contact details" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="365" y="87" width="179" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hCdEbCfftFfayXPtqMoT-17" value="&lt;b&gt;Experience table&lt;/b&gt;: This table will store my experiences" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="365" y="162" width="180" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="hCdEbCfftFfayXPtqMoT-19" value="&lt;b&gt;Qualification table&lt;/b&gt;: This table will store my qulifications and cetifications" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="365" y="211" width="180" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="hCdEbCfftFfayXPtqMoT-21" value="&lt;b&gt;Skills Table&lt;/b&gt;: This table will store my skills" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="365" y="274" width="180" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="hCdEbCfftFfayXPtqMoT-22" value="&lt;b&gt;Projects Table&lt;/b&gt;: This table will store project details" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="365" y="337" width="180" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="hCdEbCfftFfayXPtqMoT-25" value="** NOTE FOR FUTURE **&lt;br&gt;We can add following to portfolio website&lt;br&gt;1. contact form&lt;br&gt;2. blogging&lt;br&gt;3. dynamic way to add contact details, so instead of storing some contact info we can store as many contact informations" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-56" y="426" width="347" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="hCdEbCfftFfayXPtqMoT-32" value="Introduction" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="616" y="-15" width="140" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="hCdEbCfftFfayXPtqMoT-33" value="id&lt;br&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="hCdEbCfftFfayXPtqMoT-32">
+          <mxGeometry y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hCdEbCfftFfayXPtqMoT-34" value="effective_date" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="hCdEbCfftFfayXPtqMoT-32">
+          <mxGeometry y="60" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hCdEbCfftFfayXPtqMoT-35" value="Item 3" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="hCdEbCfftFfayXPtqMoT-32">
+          <mxGeometry y="90" width="140" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
